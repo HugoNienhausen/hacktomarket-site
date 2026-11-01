@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="H2M">
+<title>H2M</title>
+<path id="cell" d="M3.0 8.0H49.0L61.0 32.0L49.0 56.0H3.0L15.0 32.0Z" fill="#D2FF3F"/>
+<path id="two" transform="translate(21.20 12.80) scale(0.3)" d="M0 0H72V71H20V108H72V128H0V51H52V20H0Z" fill="#0B0B0C"/>
+</svg>
